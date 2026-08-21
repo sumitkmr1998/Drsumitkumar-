@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Sumit Kumar - Clinic for Skin Conditions",
+  "description": "Modern, responsive website for Dr. Sumit Kumar (MBBS) medical practice for skin conditions in Bhabua, Kaimur, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
